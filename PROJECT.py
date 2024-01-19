@@ -38,7 +38,7 @@ With this module you dont need to handle with some specific pkg!
         # "feat1",
         # ["feat2", "block1", "block2"],
 
-        "no features!",
+        "It doesn't do anything!",
     ]
 
     # HISTORY -----------------------------------------------

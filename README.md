@@ -1,4 +1,4 @@
-# dummy (v0.0.1)
+# dummy_module (v0.0.1)
 
 ## DESCRIPTION_SHORT
 Just a zero/dummy pypi package
@@ -9,7 +9,7 @@ with this module you dont need to handle with some specific pkg!
 
 
 ## Features
-1. no features!  
+1. It doesn't do anything!  
 
 
 ********************************************************************************
