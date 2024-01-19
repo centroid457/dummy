@@ -31,7 +31,7 @@ class PROJECT:
     # add DOUBLE SPACE at the end of all lines! for correct representation in MD-viewers
     DESCRIPTION_SHORT: str = "just a zero/dummy pypi package"
     DESCRIPTION_LONG: str = """
-designed for test applications which handle with pypi packages (installed/uninstalled/check versions).  
+designed for test applications which handle with pypi packages (install/uninstall/check versions/upgrade).  
 With this module you dont need to handle with some specific pkg!  
 """
     FEATURES: List[str] = [
