@@ -4,7 +4,7 @@
 Just a zero/dummy pypi package
 
 ## DESCRIPTION_LONG
-designed for test applications which handle with pypi packages (installed/uninstalled/check versions).  
+designed for test applications which handle with pypi packages (install/uninstall/check versions/upgrade).  
 with this module you dont need to handle with some specific pkg!
 
 
