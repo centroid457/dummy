@@ -1,4 +1,4 @@
-# dummy_module (v0.0.1)
+# dummy_module (v0.0.2)
 
 ## DESCRIPTION_SHORT
 Just a zero/dummy pypi package

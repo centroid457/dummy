@@ -51,7 +51,7 @@ With this module you dont need to handle with some specific pkg!
         "ALL ARE ALREADY PERFECT!"
     ]
     NEWS: List[str] = [
-        "just create a new version 0.0.2"
+        "just share a new version 0.0.2"
     ]
 
 
