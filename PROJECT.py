@@ -42,7 +42,7 @@ With this module you dont need to handle with some specific pkg!
     ]
 
     # HISTORY -----------------------------------------------
-    VERSION: Tuple[int, int, int] = (0, 0, 1)
+    VERSION: Tuple[int, int, int] = (0, 0, 2)
     VERSION_STR: str = ".".join(map(str, VERSION))
     TODO: List[str] = [
         "ALL ARE ALREADY PERFECT!"
@@ -51,7 +51,7 @@ With this module you dont need to handle with some specific pkg!
         "ALL ARE ALREADY PERFECT!"
     ]
     NEWS: List[str] = [
-        "READY PERFECT DUMMY PKG!"
+        "just create a new version 0.0.2"
     ]
 
 
