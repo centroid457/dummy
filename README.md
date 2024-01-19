@@ -23,13 +23,13 @@ See the [HISTORY.md](HISTORY.md) file for release history.
 
 ## Installation
 ```commandline
-pip install dummy
+pip install dummy-module
 ```
 
 
 ## Import
 ```python
-from dummy import *
+from dummy_module import *
 ```
 
 

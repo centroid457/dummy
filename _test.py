@@ -6,7 +6,7 @@ from tempfile import TemporaryDirectory
 from typing import *
 from configparser import ConfigParser
 
-from dummy import *
+from dummy_module import *
 
 
 # =====================================================================================================================

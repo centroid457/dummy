@@ -12,7 +12,7 @@ class PROJECT:
     AUTHOR_HOMEPAGE: str = "https://github.com/centroid457/"
 
     # PROJECT ----------------------------------------------
-    NAME_IMPORT: str = "dummy"
+    NAME_IMPORT: str = "dummy_module"
     NAME_INSTALL: str = NAME_IMPORT.replace("_", "-")
     KEYWORDS: List[str] = [
         "dummy",
