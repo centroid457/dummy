@@ -1,11 +1,11 @@
-# dummy_module (v0.0.2)
+# dummy_module (v0.0.3)
 
 ## DESCRIPTION_SHORT
-Just a zero/dummy pypi package
+just a zero/dummy pypi package
 
 ## DESCRIPTION_LONG
 designed for test applications which handle with pypi packages (install/uninstall/check versions/upgrade).  
-with this module you dont need to handle with some specific pkg!
+    With this module you dont need to handle with some specific pkg!
 
 
 ## Features
